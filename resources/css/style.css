@@ -23,10 +23,20 @@ header {
 }
 
 .logo {
-    font-size: 300%;
+    font-size: 400%;
     color: #ffffff;
-    padding: 15px;
+    margin: 25px;
     float: left;
+}
+
+.main-nav {
+    float: right;
+    list-style: none;
+    margin-top: 40px;
+}
+
+.main-nav li {
+    display: inline-block;
 }
 
 
@@ -34,8 +44,20 @@ header {
     Reusable Components
 -------------- */
 
-h1 {
-    color: #ffffff;
-    float: left;
-    margin: 25px 0 0 0;
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
 }
+
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    color: #ffffff;
+    font-size: 400%;
+    float: left;
+    margin: 15px;
+}
+
+/* .grid-wrapper {
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+} */
