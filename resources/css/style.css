@@ -1,0 +1,41 @@
+/* ------------------
+    Setup
+------------------ */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background: #ffffff;
+}
+
+/* ------------------
+    Header
+------------------ */
+
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.705), rgba(0, 0, 0, 0.705)), url(../images/succulent-tray.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.logo {
+    font-size: 300%;
+    color: #ffffff;
+    padding: 15px;
+    float: left;
+}
+
+
+/* --------------
+    Reusable Components
+-------------- */
+
+h1 {
+    color: #ffffff;
+    float: left;
+    margin: 25px 0 0 0;
+}
