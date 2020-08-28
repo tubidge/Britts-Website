@@ -372,19 +372,19 @@
 }
 
 .purple.darken-3 {
-  background-color: #6a1b9a !important;
+  background-color: #624b7e !important;
 }
 
 .purple-text.text-darken-3 {
-  color: #6a1b9a !important;
+  color: #a499b1 !important;
 }
 
 .purple.darken-4 {
-  background-color: #4a148c !important;
+  background-color: #3e314e !important;
 }
 
 .purple-text.text-darken-4 {
-  color: #4a148c !important;
+  color: #7f708f !important;
 }
 
 .purple.accent-1 {
@@ -2814,7 +2814,7 @@ video.responsive-video {
 .parallax-container {
   position: relative;
   overflow: hidden;
-  height: 500px;
+  height: 800px;
 }
 
 .parallax-container .parallax {
