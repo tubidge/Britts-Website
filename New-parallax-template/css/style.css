@@ -6,9 +6,14 @@
  * Made By MaterializeCSS.com
  */
 
+
+ /* ------------------------
+    Original Template CSS
+ ------------------------ */
+
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  /* color: #444; */
 }
 
 p {
@@ -54,4 +59,17 @@ p {
 
 footer.page-footer {
   margin: 0;
+}
+
+/* --------------------
+    Added CSS
+-------------------- */
+
+.parallax-container {
+  z-index: -1;
+}
+
+.parallax-container .parallax {
+  opacity: 0.25;
+  /* background-color: black; */
 }
