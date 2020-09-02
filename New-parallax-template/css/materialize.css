@@ -8400,8 +8400,8 @@ input[type=range]::-ms-thumb {
 
 .carousel .carousel-item {
   visibility: hidden;
-  width: 200px;
-  height: 200px;
+  width: 500px;
+  height: 500px;
   position: absolute;
   top: 0;
   left: 0;
